@@ -1,0 +1,22 @@
+{
+  "name": "hw25.05.23paramtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PobaranchukTetiana/HW25.05.23ParamTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PobaranchukTetiana/HW25.05.23ParamTest/issues"
+  },
+  "homepage": "https://github.com/PobaranchukTetiana/HW25.05.23ParamTest#readme",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
